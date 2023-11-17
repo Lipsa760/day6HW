@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/day6HW/static/css/main.c7ec3132.css",
+    "main.js": "/day6HW/static/js/main.d3275c06.js",
+    "index.html": "/day6HW/index.html",
+    "main.c7ec3132.css.map": "/day6HW/static/css/main.c7ec3132.css.map",
+    "main.d3275c06.js.map": "/day6HW/static/js/main.d3275c06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.d3275c06.js"
+  ]
+}
